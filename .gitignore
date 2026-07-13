@@ -1,5 +1,8 @@
 node_modules
 dist
+dist_stale*
 .env
 .DS_Store
 .vercel
+.vercel_stale*
+trash_*
