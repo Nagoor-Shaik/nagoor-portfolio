@@ -1061,7 +1061,7 @@ function BlockRender({
             style={{ aspectRatio: adaptiveAspect }}
           >
             <img
-              src="/hi-fi.png"
+              src="/Lo-fi.png"
               alt="Low Fidelity Wireframes"
               className="w-full h-full object-contain block mx-auto"
             />
