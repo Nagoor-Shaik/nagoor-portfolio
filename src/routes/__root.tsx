@@ -85,11 +85,33 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           "Nagoor Shaik — UX & Product designer specializing in motion, microinteractions, and interaction design.",
       },
       { name: "author", content: "Nagoor Shaik" },
+      { name: "theme-color", content: "#0a0a0e" },
       { property: "og:type", content: "website" },
+      { property: "og:url", content: "https://nagoor-design.space/" },
+      { property: "og:title", content: "Nagoor Shaik — UX / Product Designer" },
+      {
+        property: "og:description",
+        content:
+          "UX & Product designer specializing in motion, microinteractions, and interaction design. Four end-to-end case studies from research to high-fidelity prototyping.",
+      },
+      { property: "og:image", content: "https://nagoor-design.space/og-image.png" },
+      { property: "og:image:width", content: "1200" },
+      { property: "og:image:height", content: "630" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "Nagoor Shaik — UX / Product Designer" },
+      {
+        name: "twitter:description",
+        content:
+          "UX & Product designer specializing in motion, microinteractions, and interaction design.",
+      },
+      { name: "twitter:image", content: "https://nagoor-design.space/og-image.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
+      { rel: "icon", href: "/favicon.ico", sizes: "any" },
+      { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16.png" },
+      { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicon-32.png" },
+      { rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" },
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
       {
