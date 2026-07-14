@@ -98,12 +98,16 @@
   html {
     scroll-behavior: smooth;
     background: var(--bg-raw);
+    height: 100%;
+    overscroll-behavior-y: none;
   }
   body {
     background: var(--bg-raw);
     color: #ECECEE;
     font-family: var(--font-body);
     overflow-x: hidden;
+    min-height: 100%;
+    overscroll-behavior-y: none;
   }
   ::selection {
     background: var(--accent-steel);
