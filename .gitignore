@@ -6,3 +6,4 @@ dist_stale*
 .vercel
 .vercel_stale*
 trash_*
+*.removed_*
