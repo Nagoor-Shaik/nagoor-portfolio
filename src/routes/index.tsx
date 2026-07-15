@@ -10,7 +10,6 @@ import { SkillsSection } from "@/components/sections/Skills";
 import { ExperienceSection } from "@/components/sections/Experience";
 import { GalleryStrip } from "@/components/sections/Gallery";
 import { FaqSection } from "@/components/sections/Faq";
-import { ResumeSection } from "@/components/sections/Resume";
 import { ContactSection } from "@/components/sections/Contact";
 import { Footer } from "@/components/sections/Footer";
 
@@ -84,7 +83,6 @@ function Index() {
         <ExperienceSection />
         <GalleryStrip />
         <FaqSection />
-        <ResumeSection />
         <ContactSection />
       </main>
       <Footer />
