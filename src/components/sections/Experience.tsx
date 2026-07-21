@@ -5,26 +5,26 @@ const entries = [
   {
     company: "Vestaxis",
     role: "Full Stack Developer",
-    when: "2024 – Present",
+    when: "December 2025 – Present",
     where: "Austin, TX",
   },
   {
     company: "Vision Ze Consult IT Inc",
-    role: "Software Developer",
-    when: "2023 – 2024",
-    where: "USA",
+    role: "Software Engineer",
+    when: "September 2025 – December 2025",
+    where: "Houston, TX",
   },
   {
     company: "IBM / Kyndryl",
-    role: "Software Developer",
-    when: "2021 – 2023",
-    where: "India",
+    role: "Associate Technical Engineer",
+    when: "May 2021 – August 2023",
+    where: "Bangalore, India",
   },
   {
     company: "Amazon",
-    role: "Software Development Engineer",
-    when: "2019 – 2021",
-    where: "India",
+    role: "Technical Support Engineer",
+    when: "June 2019 – April 2021",
+    where: "Hyderabad, India",
   },
 ];
 
