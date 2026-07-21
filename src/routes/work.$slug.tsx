@@ -549,7 +549,7 @@ function TextVideoRow({
           playsInline
           onContextMenu={(e) => e.preventDefault()}
           style={{ aspectRatio: videoBlock?.aspect }}
-          className="block h-full max-h-[420px] w-auto max-w-full rounded-xl border border-white/[0.08] bg-[#0C0C0E] object-contain pointer-events-none select-none"
+          className="block h-full max-h-[420px] w-auto max-w-full rounded-[2.5rem] bg-black object-contain pointer-events-none select-none shadow-[0_20px_50px_rgba(0,0,0,0.5)]"
         />
       </div>
     </section>
@@ -576,7 +576,7 @@ function VideoTextRow({
           playsInline
           onContextMenu={(e) => e.preventDefault()}
           style={{ aspectRatio: videoBlock?.aspect }}
-          className="block h-full max-h-[420px] w-auto max-w-full rounded-xl border border-white/[0.08] bg-[#0C0C0E] object-contain pointer-events-none select-none"
+          className="block h-full max-h-[420px] w-auto max-w-full rounded-[2.5rem] bg-black object-contain pointer-events-none select-none shadow-[0_20px_50px_rgba(0,0,0,0.5)]"
         />
       </div>
 
