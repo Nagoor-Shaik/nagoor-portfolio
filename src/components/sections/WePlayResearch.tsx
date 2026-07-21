@@ -72,7 +72,7 @@ function InterviewInsights() {
         />
         <QuoteCard
           delay={100}
-          quote="I didn't know there were six badminton courts in my city. There's no single place to search — what sports exist, where, how much. You just don't know."
+          quote="I didn't know there were six badminton courts in my city. There's no single place to search: what sports exist, where, how much. You just don't know."
           label="Immigrant player, Dallas TX"
         />
         <QuoteCard
@@ -271,7 +271,7 @@ const PERSONAS: Persona[] = [
       "See pricing upfront without visiting in person",
     ],
     frustrations: [
-      "Every sport has a different website — or no website at all",
+      "Every sport has a different website, or no website at all",
       "No way to compare multiple venues in one place",
       "Booking feels like an administrative task, not something fun",
     ],
@@ -316,7 +316,7 @@ export function EmpathyMap() {
     {
       title: "SAYS",
       items: [
-        '"I had Playo back home — why is there nothing here?"',
+        '"I had Playo back home. Why is there nothing here?"',
         '"I called and no one picked up. I just gave up."',
         '"If there was an app I\'d use it every week."',
       ],
@@ -354,7 +354,7 @@ export function EmpathyMap() {
           ))}
         </div>
         <div className="mt-6 text-center font-display text-base">
-          ARJUN MEHTA — <span className="text-accent-steel">"I just want to play"</span>
+          ARJUN MEHTA: <span className="text-accent-steel">"I just want to play"</span>
         </div>
       </div>
     </Reveal>
@@ -377,7 +377,7 @@ const BEFORE_ROWS: Row[] = [
   { stage: "Search", actions: "Searches Google Maps, visits random outdated websites", thoughts: '"Why do none of these have websites?"', feelings: "Confused, Overwhelmed", emotion: "😕", tint: "bad" },
   { stage: "Contact", actions: "Calls 3-4 venues, tries Instagram pages", thoughts: '"No one answers. What do I do now?"', feelings: "Frustrated, Annoyed", emotion: "😤", tint: "bad" },
   { stage: "Booking", actions: "Drives to venue to check in person", thoughts: '"I could have done this in 2 minutes on an app"', feelings: "Resigned, Stressed", emotion: "😞", tint: "bad" },
-  { stage: "Playing", actions: "Finally plays — 2+ hours later than planned", thoughts: '"I\'m not doing that process again next weekend"', feelings: "Relieved but exhausted", emotion: "😌", tint: "neutral" },
+  { stage: "Playing", actions: "Finally plays, 2+ hours later than planned", thoughts: '"I\'m not doing that process again next weekend"', feelings: "Relieved but exhausted", emotion: "😌", tint: "neutral" },
 ];
 
 const AFTER_ROWS: Row[] = [
@@ -483,7 +483,7 @@ export function JourneyMap() {
 
 function HMW() {
   const cards = [
-    "HMW make it effortless for any player to discover ALL sports venues near them — not just the ones with good Google presence?",
+    "HMW make it effortless for any player to discover ALL sports venues near them, not just the ones with good Google presence?",
     "HMW let users check real-time court availability without calling or physically visiting the venue?",
     "HMW make the booking experience feel as energizing as the sport itself?",
   ];
@@ -859,7 +859,7 @@ function Iterations() {
         num="01"
         title="NAVIGATION STRUCTURE"
         before={`4 tabs: Home, Search, Bookings, Profile\n→ Booking-focused only.\nNo space for learning or coaching discovery.`}
-        after={`5 tabs: Home, Book, Cart, Learning, Profile\n→ Added Learning tab after realizing users also want coaching and to discover new sports — not just book what they already know.\nWe Play becomes a long-term companion, not just a booking tool.`}
+        after={`5 tabs: Home, Book, Cart, Learning, Profile\n→ Added Learning tab after realizing users also want coaching and to discover new sports, not just book what they already know.\nWe Play becomes a long-term companion, not just a booking tool.`}
       />
       <IterationCard
         delay={100}
@@ -891,7 +891,7 @@ function Principles() {
     {
       n: "02",
       t: "Transparency at Every Step",
-      d: "Price, distance, availability, and reviews — visible before the user commits, not revealed at checkout.",
+      d: "Price, distance, availability, and reviews should be visible before the user commits, not revealed at checkout.",
     },
     {
       n: "03",
@@ -939,7 +939,7 @@ export function WePlayResearch() {
           <p className="mt-6 font-body text-foreground/85 text-lg leading-relaxed">
             Before a single frame was designed in Figma, I spoke to real people who had the same
             problem I did. Five informal conversations with international immigrants living in
-            Texas. No formal script — just honest questions about how they actually experience
+            Texas. No formal script, just honest questions about how they actually experience
             finding and booking sports facilities in the US.
           </p>
         </div>

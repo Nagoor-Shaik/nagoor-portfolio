@@ -98,17 +98,17 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "quote",
         text:
-          "I drove twenty minutes only to find the courts were already full. — International player, Austin, TX",
+          "I drove twenty minutes only to find the courts were already full. (International player, Austin, TX)",
       },
       {
         type: "quote",
         text:
-          "I didn't even know there were badminton courts near me. — Immigrant player, Dallas, TX",
+          "I didn't even know there were badminton courts near me. (Immigrant player, Dallas, TX)",
       },
       {
         type: "quote",
         text:
-          "If one app existed for every sport, I'd use it every week. — Recreational player, Houston, TX",
+          "If one app existed for every sport, I'd use it every week. (Recreational player, Houston, TX)",
       },
 
       { type: "h", text: "Meet the Users" },
@@ -139,9 +139,9 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "decisions",
         items: [
-          "Discovery is fragmented — Users do not struggle only with booking. They struggle to find reliable venue information in the first place. Most people rely on Google Maps, friends, outdated websites, or social media pages.",
-          "Availability decides behavior — Users may prefer one sport, but availability often determines what they actually play. If volleyball is unavailable, they are open to badminton, basketball, pickleball, or another sport.",
-          "Returning users value speed — Many recreational players repeatedly book the same venue or sport. For them, forcing the journey to start from search every time creates unnecessary friction.",
+          "Discovery is fragmented: Users do not struggle only with booking. They struggle to find reliable venue information in the first place. Most people rely on Google Maps, friends, outdated websites, or social media pages.",
+          "Availability decides behavior: Users may prefer one sport, but availability often determines what they actually play. If volleyball is unavailable, they are open to badminton, basketball, pickleball, or another sport.",
+          "Returning users value speed: Many recreational players repeatedly book the same venue or sport. For them, forcing the journey to start from search every time creates unnecessary friction.",
         ],
       },
 
@@ -168,9 +168,9 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "decisions",
         items: [
-          "Speed First — A repeat user should be able to rebook a familiar venue quickly without restarting the full search process.",
-          "Transparency — Availability, price, duration, amenities, and booking rules should be visible before checkout.",
-          "Momentum — If one option fails, the experience should guide users toward another venue, time, or sport instead of ending the journey.",
+          "Speed First: A repeat user should be able to rebook a familiar venue quickly without restarting the full search process.",
+          "Transparency: Availability, price, duration, amenities, and booking rules should be visible before checkout.",
+          "Momentum: If one option fails, the experience should guide users toward another venue, time, or sport instead of ending the journey.",
         ],
       },
 
@@ -178,11 +178,11 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "decisions",
         items: [
-          "Multi-Sport Discovery — Problem: Users often abandon the journey when their preferred sport is unavailable. Decision: Instead of designing We Play around one sport, I designed it as a multi-sport platform. Impact: A failed search becomes an alternative path instead of a dead end.",
-          "Compare Venues in One Place — Problem: Users currently compare venues across Google Maps, outdated websites, social media pages, and phone calls. Decision: I designed venue cards that combine distance, rating, price, sport type, amenities, and availability. Impact: Users can compare options without jumping between different platforms.",
-          "Availability First — Problem: Users often call or visit venues just to ask whether courts are available. Decision: Availability became one of the most visible parts of the booking experience through a visual slot grid. Impact: Users can answer the most important question immediately: Can I play today?",
-          "Fast Repeat Booking — Problem: Returning users often book the same sport or venue repeatedly. Decision: I prioritized recent bookings on the Home screen instead of forcing every user to begin with search. Impact: Returning players can rebook a familiar venue in seconds.",
-          "Transparent Checkout — Problem: Many booking experiences hide final pricing, fees, or rules until the last step. Decision: The booking summary shows venue, sport, court, date, time, duration, taxes, fees, and total price before payment. Impact: Users know exactly what they are paying for before committing.",
+          "Multi-Sport Discovery. Problem: Users often abandon the journey when their preferred sport is unavailable. Decision: Instead of designing We Play around one sport, I designed it as a multi-sport platform. Impact: A failed search becomes an alternative path instead of a dead end.",
+          "Compare Venues in One Place. Problem: Users currently compare venues across Google Maps, outdated websites, social media pages, and phone calls. Decision: I designed venue cards that combine distance, rating, price, sport type, amenities, and availability. Impact: Users can compare options without jumping between different platforms.",
+          "Availability First. Problem: Users often call or visit venues just to ask whether courts are available. Decision: Availability became one of the most visible parts of the booking experience through a visual slot grid. Impact: Users can answer the most important question immediately: Can I play today?",
+          "Fast Repeat Booking. Problem: Returning users often book the same sport or venue repeatedly. Decision: I prioritized recent bookings on the Home screen instead of forcing every user to begin with search. Impact: Returning players can rebook a familiar venue in seconds.",
+          "Transparent Checkout. Problem: Many booking experiences hide final pricing, fees, or rules until the last step. Decision: The booking summary shows venue, sport, court, date, time, duration, taxes, fees, and total price before payment. Impact: Users know exactly what they are paying for before committing.",
         ],
       },
 
@@ -446,7 +446,7 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "quote",
         text:
-          "Flexity was designed to test whether a streaming interface could feel alive through motion — not just look good as a static homepage.",
+          "Flexity was designed to test whether a streaming interface could feel alive through motion, not just look good as a static homepage.",
       },
 
       { type: "h", text: "Overview" },
@@ -458,7 +458,7 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "p",
         text:
-          "The goal was not to copy an existing platform. The goal was to understand what makes premium streaming interfaces feel polished — then design an original experience with its own visual identity and motion language.",
+          "The goal was not to copy an existing platform. The goal was to understand what makes premium streaming interfaces feel polished, then design an original experience with its own visual identity and motion language.",
       },
 
       {
@@ -566,12 +566,12 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "decisions",
         items: [
-          "Motion as brand introduction — The logo reveal establishes the Flexity identity before users enter the product.",
-          "Carousel as the main discovery engine — The hero section gives featured content a cinematic moment while encouraging exploration.",
-          "Color-reactive hero system — Background colors shift with selected titles to make each carousel state feel distinct.",
-          "Subtle card rewards — Hover states make browsing feel interactive without overwhelming the interface.",
-          "Dark visual system — Black, mint green, and soft contrast create a premium streaming feel while separating Flexity from Netflix red and Hulu green.",
-          "Prototype-first thinking — The design was judged by how it moved, not only by how it looked in static screens.",
+          "Motion as brand introduction: The logo reveal establishes the Flexity identity before users enter the product.",
+          "Carousel as the main discovery engine: The hero section gives featured content a cinematic moment while encouraging exploration.",
+          "Color-reactive hero system: Background colors shift with selected titles to make each carousel state feel distinct.",
+          "Subtle card rewards: Hover states make browsing feel interactive without overwhelming the interface.",
+          "Dark visual system: Black, mint green, and soft contrast create a premium streaming feel while separating Flexity from Netflix red and Hulu green.",
+          "Prototype-first thinking: The design was judged by how it moved, not only by how it looked in static screens.",
         ],
       },
 
@@ -608,7 +608,7 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "p",
         text:
-          "The biggest lesson was learning to design movement with restraint. The best interactions are often the ones users do not consciously analyze — they simply make the product feel better.",
+          "The biggest lesson was learning to design movement with restraint. The best interactions are often the ones users do not consciously analyze; they simply make the product feel better.",
       },
 
       { type: "h", text: "What I Would Improve" },
@@ -754,11 +754,11 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "decisions",
         items: [
-          "One action, three motion directions — The same reveal pattern was tested through horizontal, vertical, and rotational movement.",
-          "Motion communicates state — The card does not simply animate; it moves from front-facing summary to detailed transaction view.",
-          "Click and drag support — The prototype supports both direct tapping and physical drag behavior.",
-          "Bouncy easing for weight — The third card uses easing to make the rotation feel more physical and less mechanical.",
-          "Controlled surrounding motion — Non-selected cards move away so the active card becomes the focus.",
+          "One action, three motion directions: The same reveal pattern was tested through horizontal, vertical, and rotational movement.",
+          "Motion communicates state: The card does not simply animate; it moves from front-facing summary to detailed transaction view.",
+          "Click and drag support: The prototype supports both direct tapping and physical drag behavior.",
+          "Bouncy easing for weight: The third card uses easing to make the rotation feel more physical and less mechanical.",
+          "Controlled surrounding motion: Non-selected cards move away so the active card becomes the focus.",
         ],
       },
 
@@ -829,7 +829,7 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "p",
         text:
-          "The project explores how core smartwatch experiences — watch face, fitness tracking, music, notifications, ambient display, and companion mobile controls — can work together as one connected ecosystem.",
+          "The project explores how core smartwatch experiences (watch face, fitness tracking, music, notifications, ambient display, and companion mobile controls) can work together as one connected ecosystem.",
       },
 
       {
@@ -864,11 +864,11 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "decisions",
         items: [
-          "Small screen — The interface needed to prioritize only the most important information and remove anything that required long reading.",
-          "Circular layout — Content had to fit naturally inside a round screen without feeling cropped, crowded, or misaligned.",
-          "Glance-based behavior — Most smartwatch interactions happen quickly, so each screen needed to communicate its purpose immediately.",
-          "Limited input — Without a keyboard or large touch area, the design had to rely on simple taps, swipes, and clear navigation states.",
-          "Ambient display — The always-on state needed a simplified visual system that preserved battery, reduced clutter, and kept time visible.",
+          "Small screen: The interface needed to prioritize only the most important information and remove anything that required long reading.",
+          "Circular layout: Content had to fit naturally inside a round screen without feeling cropped, crowded, or misaligned.",
+          "Glance-based behavior: Most smartwatch interactions happen quickly, so each screen needed to communicate its purpose immediately.",
+          "Limited input: Without a keyboard or large touch area, the design had to rely on simple taps, swipes, and clear navigation states.",
+          "Ambient display: The always-on state needed a simplified visual system that preserved battery, reduced clutter, and kept time visible.",
         ],
       },
 
@@ -978,12 +978,12 @@ export const caseStudies: Record<ProjectSlug, CaseStudy> = {
       {
         type: "decisions",
         items: [
-          "Time-first hierarchy — The watch face keeps time as the dominant element because it is the most frequently checked information.",
-          "Circular progress patterns — Fitness data uses ring-based visuals to match the shape of the device and improve quick scanning.",
-          "Reduced ambient state — The always-on display removes nonessential visual noise while preserving readability.",
-          "Large touch targets — Interactive controls are kept simple and easy to tap within the limited screen area.",
-          "Companion app extension — Complex settings and deeper information move to mobile so the watch remains fast and lightweight.",
-          "System consistency — Watch and mobile screens share visual language, spacing logic, and interaction patterns.",
+          "Time-first hierarchy: The watch face keeps time as the dominant element because it is the most frequently checked information.",
+          "Circular progress patterns: Fitness data uses ring-based visuals to match the shape of the device and improve quick scanning.",
+          "Reduced ambient state: The always-on display removes nonessential visual noise while preserving readability.",
+          "Large touch targets: Interactive controls are kept simple and easy to tap within the limited screen area.",
+          "Companion app extension: Complex settings and deeper information move to mobile so the watch remains fast and lightweight.",
+          "System consistency: Watch and mobile screens share visual language, spacing logic, and interaction patterns.",
         ],
       },
 

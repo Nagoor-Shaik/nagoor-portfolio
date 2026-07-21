@@ -100,7 +100,7 @@ export function HeroSection() {
             className="mt-6 font-body text-base text-text-dim max-w-[480px] opacity-0 animate-fade-up"
             style={{ animationDelay: "1700ms" }}
           >
-            A crazy anime fan who wants to make his own identity — as determined as Naruto,
+            A crazy anime fan who wants to make his own identity: as determined as Naruto,
             ambitious as Luffy, relentless as Asta, and precise as Hinata. I design experiences
             that move people, literally and figuratively.
           </p>

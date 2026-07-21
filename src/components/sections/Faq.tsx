@@ -10,11 +10,11 @@ import {
 const faqs = [
   {
     q: "Are you available for full-time roles?",
-    a: "Yes — actively looking for full-time UX/Product Designer roles. Currently based in Austin, TX. Requires H-1B sponsorship.",
+    a: "Yes, actively looking for full-time UX/Product Designer roles. Currently based in Austin, TX. Requires H-1B sponsorship.",
   },
   {
     q: "What kind of design work do you specialize in?",
-    a: "Interaction design, motion design, and microinteractions — the craft of making interfaces feel alive. I also cover end-to-end UX: research, wireframing, prototyping, and high-fidelity visual design.",
+    a: "Interaction design, motion design, and microinteractions: the craft of making interfaces feel alive. I also cover end-to-end UX: research, wireframing, prototyping, and high-fidelity visual design.",
   },
   {
     q: "What tools do you use?",
@@ -22,7 +22,7 @@ const faqs = [
   },
   {
     q: "Do you have development experience?",
-    a: "Yes — I'm also a Full Stack Developer with Java, Spring Boot, React, MySQL, Docker, and AWS. This cross-discipline background makes me a stronger designer: I understand what's technically feasible and how to design for implementation.",
+    a: "Yes, I'm also a Full Stack Developer with Java, Spring Boot, React, MySQL, Docker, and AWS. This cross-discipline background makes me a stronger designer: I understand what's technically feasible and how to design for implementation.",
   },
   {
     q: "Can I see more of your work?",
